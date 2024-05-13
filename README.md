@@ -1,0 +1,2 @@
+# Tutorato Fisica Generale 1 per Ingegneria Biomedica
+In questa cartella sono presenti gli esercizi (e le relative soluzioni) affrontati durante i tutorati di Fisica Generale 1 per Ingegneria Biomedica. Per vedere ulteriori esercizi o esempi interattivi da visualizzare usando Mathematica (le istruzioni su come scaricarlo e utilizzarlo sono presenti sempre nella cartella linkata di seguito), andare a vedere la seguente cartella drive: https://drive.google.com/drive/folders/1DiYC7EGdsnEHE45FwHhopD6O1SI7pbde?usp=drive_link 
